@@ -21,7 +21,7 @@ console.time()
 test1=[null]
 test2=[...Array(1000000)]
 
-// console.time('getFirst @ length 1')
+// console.time('fetFirst @ length 1')
 // getAll(test1)
 // console.timeEnd('getFirst @ length 1')
 
